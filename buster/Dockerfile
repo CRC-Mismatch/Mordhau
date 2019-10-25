@@ -1,7 +1,7 @@
 ###########################################################
 # Dockerfile that builds a Mordhau Gameserver
 ###########################################################
-FROM cm2network/steamcmd:root
+FROM mismatch/steamcmd:root
 
 LABEL maintainer="walentinlamonos@gmail.com"
 
